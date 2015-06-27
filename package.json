@@ -1,0 +1,23 @@
+{
+  "name": "paqueue",
+  "version": "1.0.0",
+  "description": "queue for parallel execution of a function list",
+  "main": "paqueue.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoddy/paqueue.git"
+  },
+  "keywords": [
+    "queue",
+    "parallel"
+  ],
+  "author": "André Kussmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoddy/paqueue/issues"
+  },
+  "homepage": "https://github.com/zoddy/paqueue#readme"
+}
