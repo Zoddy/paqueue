@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "queue for parallel execution of a function list",
   "main": "paqueue.js",
-  "scripts": {
-    "test": "node test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zoddy/paqueue.git"
